@@ -24,5 +24,9 @@ Rank Fusion Method:
 ## Part 2
 2-stage ranker:
 
-BM25 -> BERT
+1) 1000 documents for BM25 & TILDEv2 + 10 documents for monoBERT
+
+2) 1000 documents for BM25 & TILDEv2 + 100 documents for monoBERT
+
+3) 1000 documents for BM25 & TILDEv2 + 500 documents for monoBERT
 
