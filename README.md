@@ -1,1 +1,4 @@
-# 2-stage-rank-retriever
+# information-retrieval
+
+[This is a course work in information retrieval]
+
